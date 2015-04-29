@@ -1,4 +1,4 @@
-# Privacy Policy Statement of File Transfer Plus (Microsoft Windows Store App)
+# File Transfer Plus (Microsoft Windows Store App) Privacy Policy Statement
 
 The File Transfer Plus (Microsoft Windows Store App) enables your windows tablet / windows phone to be a FTP server to transfer file between windows device via standard File Transfer Protocol (FTP). You can access the FTP server by using windows resource explorer of your Windows PC or other FTP client. This application has trial license for 15 days.
 
